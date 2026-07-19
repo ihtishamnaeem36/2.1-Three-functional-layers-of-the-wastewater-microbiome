@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the associated publication and this repository."
+title: "Three functional layers of the wastewater microbiome, from metabolism to the resistome: a multi-city metagenomic study from Khyber Pakhtunkhwa, Pakistan"
+type: dataset
+authors:
+  - given-names: Ihtisham
+    family-names: Naeem
+    orcid: "https://orcid.org/0009-0004-0911-0852"
+    affiliation: "University of Swat, Khyber Pakhtunkhwa, Pakistan"
+  - given-names: Sapna
+    affiliation: "University of Swat, Khyber Pakhtunkhwa, Pakistan"
+  - given-names: Shujait
+    family-names: Ali
+    affiliation: "University of Swat, Khyber Pakhtunkhwa, Pakistan"
+    email: shujaitswati@uswat.edu.pk
+  - given-names: Ishaq
+    family-names: Khan
+    affiliation: "University of Swat, Khyber Pakhtunkhwa, Pakistan"
+    email: ishaq@uswat.edu.pk
+  - given-names: Muhammad
+    family-names: Shafiq
+    orcid: "https://orcid.org/0000-0002-4346-5903"
+    affiliation: "Shantou University, Shantou, China"
+    email: drshafiq@stu.edu.cn
+version: "1.0.0"
+date-released: "2026-07-19"
+license: MIT
+keywords:
+  - antimicrobial resistance
+  - wastewater metagenomics
+  - resistome
+  - KEGG
+  - CARD
+  - mobile genetic elements
+  - One Health
