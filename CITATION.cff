@@ -2,6 +2,14 @@ cff-version: 1.2.0
 message: "If you use this software or data, please cite the associated publication and this repository."
 title: "Three functional layers of the wastewater microbiome, from metabolism to the resistome: a multi-city metagenomic study from Khyber Pakhtunkhwa, Pakistan"
 type: dataset
+doi: 10.5281/zenodo.21439016
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21439016
+    description: "Zenodo DOI for this archived version"
+  - type: other
+    value: PRJNA1463247
+    description: "NCBI BioProject (raw sequence reads, SRA)"
 authors:
   - given-names: Ihtisham
     family-names: Naeem
