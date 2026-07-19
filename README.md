@@ -82,5 +82,5 @@ If you use this code or data, please cite the work as described in `CITATION.cff
 Code is released under the MIT Licence (`LICENSE`). Processed data and figures are shared for reuse with attribution; please cite the associated publication.
 
 ## Contact
-
+Author: Ihtisham Naeem (ihtishamnaeem36@gmail.com)
 Corresponding authors: Ishaq Khan (ishaq@uswat.edu.pk); Muhammad Shafiq (drshafiq@stu.edu.cn).
