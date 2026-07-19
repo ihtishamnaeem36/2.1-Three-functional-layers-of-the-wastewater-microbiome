@@ -4,13 +4,9 @@
 
 This repository holds the code, processed data, and figures for a shotgun-metagenomic study of wastewater from three cities in Khyber Pakhtunkhwa (Swat, Mardan, Peshawar), sampled across hospital, slaughterhouse, and community sites (n = 18). The study treats the community as three functional layers — metabolism, the intrinsic resistome, and the acquired resistome — and asks how each is organised and how they interact.
 
-## Summary of findings
+## DOI
 
-- The metabolic layer is uniform across sites (PERMANOVA R² = 0.12, P = 0.42) and organised around energy metabolism.
-- Environmental structuring rises across the layers, from metabolism to the intrinsic resistome (R² = 0.19, P = 0.05) to the acquired resistome (R² = 0.27, P = 0.004), which is heaviest in hospital effluent.
-- Metabolic-network centralization does not predict resistance load; no resistome–network correlation survives false-discovery correction.
-- Of all variable functions, only antibiotic-biosynthesis potential tracks the resistome, and it does so inversely (r = −0.56, P = 0.016), strongest for the streptomycin pathway (r = −0.81, P < 0.001) — a producer–acquirer axis.
-- Class 1 integron markers (intI1) track the acquired resistome (r = 0.72) and peak in hospital effluent, marking horizontal gene transfer as its route of assembly.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21439016.svg)](https://doi.org/10.5281/zenodo.21439016)
 
 ## Repository layout
 
