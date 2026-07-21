@@ -1,6 +1,6 @@
-# Three functional layers of the wastewater microbiome
+# The acquired resistome of untreated wastewater is inversely linked to native antibiotic-biosynthesis potential
 
-**From metabolism to the resistome: a multi-city metagenomic study from Khyber Pakhtunkhwa, Pakistan**
+**A multi-source metagenomic study from Khyber Pakhtunkhwa, Pakistan**
 
 [![DOI](https://zenodo.org/badge/1305511427.svg)](https://doi.org/10.5281/zenodo.21439016)
 
@@ -84,5 +84,5 @@ If you use this code or data, please cite the work as described in `CITATION.cff
 Code is released under the MIT Licence (`LICENSE`). Processed data and figures are shared for reuse with attribution; please cite the associated publication.
 
 ## Contact
-Author: Ihtisham Naeem (ihtishamnaeem36@gmail.com)
+
 Corresponding authors: Ishaq Khan (ishaq@uswat.edu.pk); Muhammad Shafiq (drshafiq@stu.edu.cn).
